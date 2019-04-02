@@ -80,6 +80,8 @@ Community powers
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
+ - [955.WLB](https://github.com/955wlb/955.WLB) is a repo of a display the whole 955 company.
+
 Where are the issues?
 ---
 
